@@ -19,7 +19,6 @@
     provide('sort', sort)
 
     /**
-     * 
      * Shuffles the numbers in the array
      */
     const shuffleNumbers = () => {
